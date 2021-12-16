@@ -1,2 +1,1 @@
-# Corretor_ortografico
- Python spell checker using NPL
+# Curso de NLP Alura, Construindo um corretor ortográfico utilizando python
